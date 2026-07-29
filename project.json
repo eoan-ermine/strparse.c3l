@@ -1,0 +1,11 @@
+{
+	"langrev": "1",
+	"authors": [ "Danil Sidoruk danilsidoruknv@yandex.ru>" ],
+	"version": "0.1.0",
+	"sources": [ "src/**" ],
+	"targets": {
+		"strparse": {
+			"type": "static-lib"
+		}
+	}
+}

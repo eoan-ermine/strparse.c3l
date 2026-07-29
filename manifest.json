@@ -1,0 +1,4 @@
+{
+  "provides" : "strparse",
+  "sources" : [ "src/**" ]
+}
